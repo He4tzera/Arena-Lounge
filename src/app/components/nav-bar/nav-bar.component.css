@@ -1,0 +1,29 @@
+.navBar{
+  position: fixed;
+  width: 55.5625rem;
+  height: 3.3125rem;
+  margin-top: 0.88rem;
+  right: 0;
+  margin-right: 17.69rem;
+}
+
+.navItens{
+  display: flex;
+  flex-direction: row;
+
+  gap: 13.69rem;
+
+  font-size: 2.1875rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.navIten{
+  color:#fff;
+
+}
+.active a{
+  color: #FFAA30;
+
+}
