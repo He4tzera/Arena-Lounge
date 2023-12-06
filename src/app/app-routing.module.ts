@@ -1,9 +1,8 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { TesteRouteComponent } from './components/teste-route/teste-route.component';
-import { HomeComponent } from './pages/home/home.component';
 import { CardapioComponent } from './pages/cardapio/cardapio.component';
 import { ContatoComponent } from './pages/contato/contato.component';
+import { HomeComponent } from './pages/home/home.component';
 
 const routes: Routes = [
   {path:'', component: HomeComponent, pathMatch:'full'},

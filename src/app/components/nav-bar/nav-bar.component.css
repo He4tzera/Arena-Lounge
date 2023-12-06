@@ -1,5 +1,6 @@
 .navBar{
-  position: fixed;
+  position: absolute;
+  z-index: 99;
   width: 55.5625rem;
   height: 3.3125rem;
   margin-top: 0.88rem;
