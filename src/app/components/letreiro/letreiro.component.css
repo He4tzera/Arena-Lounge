@@ -1,0 +1,45 @@
+.logoArena{
+  height: 16.9375rem;
+  width: 16.9375rem;
+  margin-left: 6.81rem;
+  margin-top: 0.81rem;
+  background-image: url(../../assets/Arenalogo1.png);
+  background-size: cover;
+}
+
+.letreiro{
+  text-align: center;
+  font-style: normal;
+  font-weight: 700;
+
+  margin-bottom: 1.12rem;
+  margin-left: 6.81rem;
+
+
+}
+
+#bora{
+  font-size: 6rem;
+  width: 15.5625rem;
+
+  background-color: #FFAA30;
+  margin-top: 1.75rem;
+}
+
+#fumar{
+  font-size: 5.75rem;
+  width: 31.25rem;
+
+  background-color: #FFAA30;
+}
+
+#rosh{
+  width: 26.9375rem;
+
+  background-color: #FFAA30;
+  font-size: 9.375rem;
+  font-style: normal;
+  font-weight: 800;
+  color: #FFF;
+
+}

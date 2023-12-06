@@ -8,6 +8,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { CardapioComponent } from './pages/cardapio/cardapio.component';
 import { ContatoComponent } from './pages/contato/contato.component';
 import { BackgroundComponent } from './components/background/background.component';
+import { LetreiroComponent } from './components/letreiro/letreiro.component';
 
 @NgModule({
   declarations: [
@@ -17,6 +18,7 @@ import { BackgroundComponent } from './components/background/background.componen
     CardapioComponent,
     ContatoComponent,
     BackgroundComponent,
+    LetreiroComponent,
   ],
   imports: [
     BrowserModule,
